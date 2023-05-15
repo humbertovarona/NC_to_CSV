@@ -1,4 +1,4 @@
-file_path = '~/OceanData/3hr.nc'
+file_path = '~/OceanData/samples.nc'
 output_folder = '~/OceanData/'
 delimiter = ';'
 
