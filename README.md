@@ -20,3 +20,9 @@ Convert NetCDF file into CSV file
 
 - read_netcdf_file.py: Read all variables of NetCDF file
 - save_variable_to_csv: Write all variable into CSV file
+
+# Library dependency
+
+import csv
+import netCDF4 as nc
+import numpy as np
