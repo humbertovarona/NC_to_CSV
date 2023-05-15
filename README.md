@@ -14,9 +14,9 @@ MIT
 
 # Description
 
-Convert NetCDF file to CSV file
+Convert NetCDF file into CSV file
 
 # Functions list
 
-- read_netcdf_file.py:
-- save_variable_to_csv:  
+- read_netcdf_file.py: Read all variables of NetCDF file
+- save_variable_to_csv: Write all variable into CSV file
